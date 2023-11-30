@@ -5,7 +5,7 @@ This project is part of a Kaggle competition and focuses on exploring, analyzing
 
 ### Kaggle Competition
 - **Competition Name: **Predict Health Outcomes of Horses**
-- **Competition Link: **https://www.kaggle.com/competitions/playground-series-s3e22]**
+- **Competition Link: https://www.kaggle.com/competitions/playground-series-s3e22
 
 ### Dataset
 The dataset used in this project contains information about various attributes related to horses, including health indicators and other relevant features.
